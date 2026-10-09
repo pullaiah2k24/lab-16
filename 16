@@ -1,0 +1,18 @@
+//Maven Dependencies (pom.xml)
+<dependencies>
+<dependency>
+<groupId>org.springframework</groupId>
+<artifactId>spring-webmvc</artifactId>
+<version>6.1.10</version>
+</dependency>
+<dependency>
+<groupId>jakarta.servlet</groupId>
+<artifactId>jakarta.servlet-api</artifactId>
+<version>6.0.0</version>
+<scope>provided</scope>
+</dependency>
+<dependency>
+<groupId>javax.servlet</groupId>
+<artifactId>jstl</artifactId>
+<version>1.2</version>
+</dependency>
